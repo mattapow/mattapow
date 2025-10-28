@@ -6,7 +6,7 @@ I've done resreach in a few scientific numerical modelling fields. Here's my:
 - [Research Gate](https://www.researchgate.net/profile/Matthew-Macaulay-2)
 
 ## Tsunamis :ocean: :ocean:
-I'm currently researching tsunami and their potential impact on Australia with [matt-mac-ga](https://github.com/matt-mac-ga). At Geoscience Australia I'm developing tsunmami indunation models to form probabilistic models of the threat of tsunamis to the Australian coastline. Working with emergency management teams to identify areas for evacuation in the event of a tsunami warning.
+I'm currently researching tsunami and their potential impact on Australia at Geoscience Australia. I'm developing tsunmami indunation models to form probabilistic models of the threat of tsunamis to the Australian coastline. Working with emergency management teams to identify areas for evacuation in the event of a tsunami warning.
 
 ## Phylogenetics :herb::herb:
 

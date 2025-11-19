@@ -16,8 +16,4 @@ As a post-doc reseacher at the University of Technology Sydney, I investigated n
 
 At the university of Sydney, I researched the rheology of granular flows. Inter-particle cohesion has a significant but understudied role in granular flows such as avalanches, powder flows, and landslides. I numerically investigated the grain-scale mechanisms behind their viscous and diffusive properties. This investigation informs continuous models of granular flows, providing a physical basis for these models and allows continunuus scale approximations of their flow field.
 
-## Data Centric Engineering :factory::factory:
-
-I also have an interest in including data in online engineering applications. This includes optimsation, Bayesian inference and filtering. I worked on these ideas at the University of Sydney's Digital Sciences Initiative.
-
 Reach me at matthew.macaulay@ga.gov.au 📫 
